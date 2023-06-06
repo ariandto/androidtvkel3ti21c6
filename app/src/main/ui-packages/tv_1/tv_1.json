@@ -1,0 +1,868 @@
+{
+  "name": "tv_1",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "vEcsYjmkACdpGyxauQnwQc",
+    "node": "272:2",
+    "version": "3611200598",
+    "component-id": "d3d11a647ba76c86a5c71667b474ac538150d3d0"
+  },
+  "default": "TV - 1",
+  "documentation": "sip1sips11",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 1"
+      },
+      {
+        "type": "vector",
+        "id": "Ellipse 2"
+      },
+      {
+        "type": "group",
+        "id": "material-symbols:search-rounded"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 3"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 4"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 6"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 12"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 13"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 14"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 15"
+      },
+      {
+        "type": "text",
+        "id": "Nama Konten 1"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 16"
+      },
+      {
+        "type": "text",
+        "id": "Nama Konten 5"
+      },
+      {
+        "type": "text",
+        "id": "Nama Konten 2"
+      },
+      {
+        "type": "text",
+        "id": "Nama Konten 3"
+      },
+      {
+        "type": "text",
+        "id": "Nama Konten 4"
+      },
+      {
+        "type": "vector",
+        "id": "Vector1"
+      },
+      {
+        "type": "text",
+        "id": "Ruang Perpustakaan"
+      },
+      {
+        "type": "text",
+        "id": "Kelas Prodi Teknik"
+      },
+      {
+        "type": "text",
+        "id": "Fasilitas Universitas Pelita Bangsa"
+      },
+      {
+        "type": "vector",
+        "id": "Vector2"
+      }
+    ],
+    "modes": {
+      "TV - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Ellipse 1",
+              "Ellipse 2",
+              "material-symbols:search-rounded",
+              "Rectangle 5",
+              "Rectangle 3",
+              "Rectangle 1",
+              "Rectangle 4",
+              "Rectangle 6",
+              "Rectangle 12",
+              "Rectangle 13",
+              "Rectangle 14",
+              "Rectangle 15",
+              "Nama Konten 1",
+              "Rectangle 16",
+              "Nama Konten 5",
+              "Nama Konten 2",
+              "Nama Konten 3",
+              "Nama Konten 4",
+              "Vector1",
+              "Ruang Perpustakaan",
+              "Kelas Prodi Teknik",
+              "Fasilitas Universitas Pelita Bangsa"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "fills": [
+              {
+                "color": {
+                  "alpha": "1.0",
+                  "hue": "211.0344827586207",
+                  "saturation": "0.9508196721311476",
+                  "value": "0.23921568627450981"
+                },
+                "opacity": "1.0",
+                "fill-type": "solid",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": "1143.0",
+              "top": "35.0",
+              "right": "69.0",
+              "bottom": "650.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "Ellipse 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "53.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "30.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "vector-content": "ellipse_1.svg"
+          },
+          {
+            "id": "Ellipse 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "119.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "30.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "47.0"
+              }
+            },
+            "vector-content": "ellipse_2.svg"
+          },
+          {
+            "id": "material-symbols:search-rounded",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "66.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "40.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "26.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "27.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector2"
+            ]
+          },
+          {
+            "id": "Rectangle 5",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "56.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "400.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "157.0"
+              }
+            },
+            "image-content": "rectangle_5.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 3",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "605.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "400.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "vector-content": "rectangle_3.svg"
+          },
+          {
+            "id": "Rectangle 1",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "332.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "400.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 4",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "881.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "400.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 6",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "1157.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "400.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_6.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 12",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "56.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "612.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_12.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 13",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "332.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "612.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_13.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 14",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "605.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "612.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "vector-content": "rectangle_14.svg"
+          },
+          {
+            "id": "Rectangle 15",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "880.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "612.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_15.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Nama Konten 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "108.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "733.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nama Konten 1",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "20.0",
+            "line-height": "1.3609999656677245",
+            "typeface": "Alegreya"
+          },
+          {
+            "id": "Rectangle 16",
+            "border-radius": "15.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "1156.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "612.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "265.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              }
+            },
+            "image-content": "rectangle_16.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Nama Konten 5",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "1202.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "733.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "51.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nama Konten 5",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "20.0",
+            "line-height": "1.3609999656677245",
+            "typeface": "Alegreya"
+          },
+          {
+            "id": "Nama Konten 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "385.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "733.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "170.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "51.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nama Konten 2",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "20.0",
+            "line-height": "1.3609999656677245",
+            "typeface": "Alegreya"
+          },
+          {
+            "id": "Nama Konten 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "649.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "733.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "169.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nama Konten 3",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "20.0",
+            "line-height": "1.3609999656677245",
+            "typeface": "Alegreya"
+          },
+          {
+            "id": "Nama Konten 4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "942.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "733.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "172.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "52.0"
+              }
+            },
+            "font-weight": "500.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            },
+            "text-content": "Nama Konten 4",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-size": "20.0",
+            "line-height": "1.3609999656677245",
+            "typeface": "Alegreya"
+          },
+          {
+            "id": "Vector1",
+            "margin": {
+              "left": "133.0",
+              "top": "40.0",
+              "right": "1121.0",
+              "bottom": "653.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector1.svg"
+          },
+          {
+            "id": "Ruang Perpustakaan",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "56.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "360.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "227.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Ruang Perpustakaan",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.17822265625",
+            "typeface": "Imprint MT Shadow"
+          },
+          {
+            "id": "Kelas Prodi Teknik",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "56.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "571.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "227.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "23.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Kelas Prodi Teknik",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "24.0",
+            "line-height": "1.17822265625",
+            "typeface": "Imprint MT Shadow"
+          },
+          {
+            "id": "Fasilitas Universitas Pelita Bangsa",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "53.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "107.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "297.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "134.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Fasilitas \nUniversitas Pelita Bangsa",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "36.0",
+            "line-height": "1.17822265625",
+            "typeface": "Imprint MT Shadow",
+            "case": "title"
+          },
+          {
+            "id": "Vector2",
+            "margin": {
+              "left": "3.25",
+              "top": "3.375",
+              "right": "3.683349609375",
+              "bottom": "3.8531494140625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "vector2.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "TV - 1",
+      "size": {
+        "width": 1280.0,
+        "height": 720.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
